@@ -13,3 +13,5 @@ Execute this command in the terminal:
 ```
 go run main.go
 ```
+
+- Constants (`const`) are like variables, except that ther values cannot be changed
