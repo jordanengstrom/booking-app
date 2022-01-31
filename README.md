@@ -15,3 +15,10 @@ go run main.go
 ```
 
 - Constants (`const`) are like variables, except that ther values cannot be changed
+
+Go is a statically typed language. Go has the following data types:
+- Strings
+- Integers
+- Bools
+- Maps
+- Arrays
